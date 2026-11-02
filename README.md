@@ -1,16 +1,21 @@
-# blood_donation
+# 🩸 Blood Donation App | تطبيق التبرع بالدم
 
-A new Flutter project.
+A Flutter mobile app that connects people who need blood with available donors.
+تطبيق Flutter يربط المحتاجين للدم بالمتبرعين المتاحين.
 
-## Getting Started
+## ✨ Features | المميزات
 
-This project is a starting point for a Flutter application.
+- 🔐 Sign up / Sign in with email and password (Firebase Auth)
+- 🔎 Search for donors by blood type and location
+- 📞 View donor contact info (available donors only)
+- 🆘 Create blood donation requests saved to Cloud Firestore
+- 🎨 Arabic UI with Cairo font and a clean red theme
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (Material 3)
+- **Firebase Auth** and **Cloud Firestore**
+- **Provider** for state management
+- **Google Fonts** (Cairo)
+- Repository pattern (`data/`), models (`model/`), providers (`providers/`)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
