@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177363679578",
+    "project_id": "blood-3fd21",
+    "storage_bucket": "blood-3fd21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177363679578:android:4384794f6d3a2bbe055b63",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhj79W8qbGf4lOCaWMbjSRiW1KaYwNTmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
